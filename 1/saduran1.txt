@@ -1,0 +1,9 @@
+Nim : 1811500018
+Nama : M Fattah Deni N
+Kel : 1811500018
+
+Hasil saduran saya :
+1). penjelasan tentang mata kuliah RPL
+2). Akan ada tugas menyadur setiap pertemuan
+3). Penjelasan tentang cara membuat repository github
+4). Sedikit penjelasan dan pengertian tentang Analisa dan perangkat Lunak
