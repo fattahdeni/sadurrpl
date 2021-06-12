@@ -1,6 +1,4 @@
-Nama : M Fattah Deni N <br>
-Nim : 1811500018 <br>
-Kel : TI6A <br>
-<br>
-<br>
-<br>
+Nama : M Fattah Deni N 
+Nim : 1811500018 
+Kel : TI6A 
+
